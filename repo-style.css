@@ -9,6 +9,8 @@ b{
     background-color: aqua;
     font-size:25px;
 }
-p{
-    background-color:cornsilk;
+div{
+    background-color:rgb(255, 220, 245);
+    padding:9px;
+    margin: 9px;
 }
