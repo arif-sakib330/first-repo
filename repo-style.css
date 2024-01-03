@@ -14,3 +14,9 @@ div{
     padding:9px;
     margin: 9px;
 }
+img{
+    border:9px solid tomato;
+    border-radius:20px;
+    box-shadow:9px 9px 9px blueviolet;
+    width: 300px;
+}
